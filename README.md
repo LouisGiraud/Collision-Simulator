@@ -1,2 +1,2 @@
 # Particle-Collider
-A small particle collision simulator in Python
+A small collision simulator in Python, based on Reducible's video : https://youtu.be/eED4bSkYCB8
